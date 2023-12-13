@@ -46,7 +46,7 @@ See attached PNG file: CO2 emissions per capita for each country for 2010
 
 
 
-Link to the Tableau: [https://public.tableau.com/shared/77DPGSP29?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/TTNG3CXTR?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/TTNG3CXTR?:display_count=n&:origin=viz_share_link
+Link to the Tableau: [Tableau](https://public.tableau.com/shared/77DPGSP29?:display_count=n&:origin=viz_share_linkhttps://public.tableau.com/shared/TTNG3CXTR?:display_count=n&:origin=viz_share_link)
 OR
 https://public.tableau.com/shared/DD4MXMC5W?:display_count=n&:origin=viz_share_link
 
